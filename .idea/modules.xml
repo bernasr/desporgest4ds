@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/desporgest.iml" filepath="$PROJECT_DIR$/desporgest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desporgest/desporgest-business/desporgest-business.iml" filepath="$PROJECT_DIR$/desporgest/desporgest-business/desporgest-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desporgest/desporgest-ear/desporgest-ear.iml" filepath="$PROJECT_DIR$/desporgest/desporgest-ear/desporgest-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desporgest/desporgest-gui-client/desporgest-gui-client.iml" filepath="$PROJECT_DIR$/desporgest/desporgest-gui-client/desporgest-gui-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desporgest/desporgest-web-client/desporgest-web-client.iml" filepath="$PROJECT_DIR$/desporgest/desporgest-web-client/desporgest-web-client.iml" />
+    </modules>
+  </component>
+</project>
