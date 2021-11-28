@@ -57,7 +57,6 @@ import controller.web.inputController.actions.UnknownAction;
  * @author fmartins
  *
  */
- 
 @WebServlet(FrontController.ACTION_PATH + "/*")
 public class FrontController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
